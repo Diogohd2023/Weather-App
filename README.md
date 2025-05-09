@@ -28,7 +28,7 @@ Para executar este aplicativo localmente, siga estas etapas:
 
 1.  **Clone o Repositório:**
     ```bash
-    git clone [coloque aqui o link do seu repositório]
+    git clone https://github.com/Diogohd2023/Weather-App/tree/main
     ```
 2.  **Navegue até o Diretório:**
     ```bash
