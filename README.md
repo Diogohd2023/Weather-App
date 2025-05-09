@@ -32,7 +32,7 @@ Para executar este aplicativo localmente, siga estas etapas:
     ```
 2.  **Navegue até o Diretório:**
     ```bash
-    cd [nome do diretório do aplicativo]
+    cd Weather-APP
     ```
 3.  **Instale as Dependências:**
     Certifique-se de ter o Node.js e o npm (ou yarn) instalados em sua máquina. Execute o seguinte comando para instalar as dependências do projeto:
